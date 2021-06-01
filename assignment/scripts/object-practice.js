@@ -1,4 +1,23 @@
 console.log('***** Object Practice *****')
+/* NOTES
+start out with new 'variable' thats equal to an 'object literal'
+
+
+
+
+
+*/
+let card0 = { /*  code within is going to set its 'properties' of this
+  particular 'object' */
+  suit:           // INSIDE an 'object literal' use ':' instead of '='
+
+}
+
+
+
+
+
+
 
 // Add the required code to complete the tasks below
 
@@ -14,9 +33,9 @@ const me = {
 console.log('A little about me:', me);
 
 /* 2. Accessing object properties.
-  - Create a variable called fullName 
-  - Use the firstName & lastName properties of the object you 
-    created above to set its value. 
+  - Create a variable called fullName
+  - Use the firstName & lastName properties of the object you
+    created above to set its value.
   - Console.log fullName
 */
 
@@ -24,7 +43,7 @@ console.log('A little about me:', me);
 
 /* 3. Nested arrays
   - Console.log your first favorite food
-  - Console.log your last favorite food 
+  - Console.log your last favorite food
 */
 
 
@@ -33,7 +52,7 @@ console.log('A little about me:', me);
   - Console.log your current shoe count.
   - Guess what?! You just got a new pair of shoes!!!
   - Set your object's shoeCount to be what it was plus 1
-  - Console.log your updated shoe count. 
+  - Console.log your updated shoe count.
 */
 
 
